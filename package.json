@@ -1,0 +1,9 @@
+{
+  "name": "iso-3166-flags",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs-extra": "^0.16.4",
+    "glob": "^5.0.0",
+    "lodash": "^3.3.1"
+  }
+}
